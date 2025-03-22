@@ -7,7 +7,7 @@
     --color-on-primary: #ffffff;
     --color-on-secondary: #ffffff;
     --color-on-tertiary: #ffffff;
-    --foreground: #dae2f9;
+    --color-foreground: #dae2f9;
 }
 
 @layer base {
